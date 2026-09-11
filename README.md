@@ -31,5 +31,5 @@ tests / 41 assertions, 0 failures.
 ## Develop
 
 ```bash
-clojure -M:test
+kbb -M:test
 ```
