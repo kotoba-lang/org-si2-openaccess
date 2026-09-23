@@ -1,5 +1,5 @@
 (ns openaccess.query-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [openaccess.design :as design]
             [openaccess.library :as library]
             [openaccess.query :as query]
