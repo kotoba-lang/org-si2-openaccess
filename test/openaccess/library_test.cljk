@@ -1,5 +1,5 @@
 (ns openaccess.library-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [openaccess.library :as library]))
 
 (def lib

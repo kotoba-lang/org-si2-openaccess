@@ -1,5 +1,5 @@
 (ns openaccess.shape-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [openaccess.shape :as shape]))
 
 (deftest rect-bbox-test
